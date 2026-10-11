@@ -1,0 +1,5 @@
+Exp6: large strongly-symmetric graphs (lower is better).
+A = symmetry-aware GT-IDEA; B = symmetry-off GT-IDEA; C = standard GA.
+
+A vs B_symmetry_off: Wilcoxon p=0.6406, A better on 3/8 instances
+A vs C_standard_ga: Wilcoxon p=0.007812, A better on 0/8 instances

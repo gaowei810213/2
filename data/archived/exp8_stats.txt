@@ -1,0 +1,4 @@
+Exp8: GT-IDEA v2 on large strongly-symmetric graphs (lower is better).
+
+v2 vs GT-IDEA-v1: Wilcoxon p=0.007812, v2 better on 8/8
+v2 vs standard_ga: Wilcoxon p=0.01562, v2 better on 7/8

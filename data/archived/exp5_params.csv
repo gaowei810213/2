@@ -1,0 +1,13 @@
+parameter,value,mean_value,std_value
+pop_size,20,1.65894,0.112373
+pop_size,40,1.67243,0.158952
+pop_size,60,1.75271,0.185936
+pop_size,80,1.70572,0.205731
+diversity_delta,0,1.75893,0.137402
+diversity_delta,1,1.67243,0.158952
+diversity_delta,2,1.69732,0.0921878
+diversity_delta,3,1.63732,0.0861407
+mut_mix:uniform,uniform,1.74754,0.127766
+mut_mix:bitflip_heavy,bitflip_heavy,1.43546,0.201777
+mut_mix:circle_heavy,circle_heavy,1.79258,0.127611
+mut_mix:aut_heavy,aut_heavy,1.41627,0.127186

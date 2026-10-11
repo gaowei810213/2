@@ -1,0 +1,6 @@
+# Versions installed in the local environment used for supplementary runs.
+# The archived original experiments do not contain a complete environment record.
+numpy==1.26.4
+networkx==3.3
+scipy==1.13.1
+matplotlib==3.9.2

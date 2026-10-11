@@ -1,0 +1,5 @@
+Exp9: GT-IDEA vs GA/SA/BPSO (lower is better).
+
+GT-IDEA vs standard_ga: Wilcoxon p=0.001474, better 13/18 (ties 5)
+GT-IDEA vs simulated_annealing: Wilcoxon p=0.0009815, better 14/18 (ties 4)
+GT-IDEA vs binary_pso: Wilcoxon p=0.0002931, better 17/18 (ties 1)

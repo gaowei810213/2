@@ -1,0 +1,15 @@
+{
+  "scientific": {
+    "path_counterexample": "passed",
+    "C6_feature_counterexample": "passed",
+    "C4_exhaustive_objective_and_neighborhood_invariance": "passed",
+    "memoization_preserves_seeded_trajectory_both_targets": "passed"
+  },
+  "editorial": {
+    "ten_placeholders_filled": "passed",
+    "reviewer3_response_preserved": "passed",
+    "existing_reviewer3_manuscript_markings_preserved": "passed",
+    "supplementary_slots_filled": "passed",
+    "revision_environments_balanced": "passed"
+  }
+}

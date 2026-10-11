@@ -1,0 +1,8 @@
+Statistical tests on Exp2 (lower is better).
+
+GT-IDEA vs betweenness_greedy: Wilcoxon p=0.8983, GT-IDEA better on 8/20 instances
+GT-IDEA vs binary_pso: Wilcoxon p=0.0001318, GT-IDEA better on 0/20 instances
+GT-IDEA vs degree_greedy: Wilcoxon p=0.2774, GT-IDEA better on 12/20 instances
+GT-IDEA vs random_search: Wilcoxon p=1.907e-06, GT-IDEA better on 20/20 instances
+GT-IDEA vs simulated_annealing: Wilcoxon p=5.722e-06, GT-IDEA better on 1/20 instances
+GT-IDEA vs standard_ga: Wilcoxon p=0.0001318, GT-IDEA better on 0/20 instances

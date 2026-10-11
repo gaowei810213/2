@@ -1,0 +1,37 @@
+{
+  "python": "3.12.7",
+  "networkx": "3.3",
+  "numpy": "1.26.4",
+  "matplotlib": "3.9.2",
+  "parameters": {
+    "runs": 10,
+    "generations": 30,
+    "population": 20
+  },
+  "seed_range": [
+    0,
+    9
+  ],
+  "graph_generation_seed": 1,
+  "objective_memoization": true,
+  "delta_study_target": "tau",
+  "delta_study_graph": "BA40",
+  "graphs": {
+    "ER40": {
+      "n": 40,
+      "edges": 99
+    },
+    "BA40": {
+      "n": 40,
+      "edges": 111
+    },
+    "Q4": {
+      "n": 16,
+      "edges": 32
+    },
+    "Karate": {
+      "n": 34,
+      "edges": 78
+    }
+  }
+}

@@ -1,0 +1,17 @@
+target,graph,n,m,exact,best_found,mean_gap,std_gap,exact_hits
+tau,path_P8,8,7,1,1,0,0,10/10
+tau,cycle_C10,10,10,1.25,1.25,0,0,10/10
+tau,petersen,10,15,2,2,0,0,10/10
+tau,grid_3x3,9,12,1,1,0,0,10/10
+tau,complete_bipartite_K3_4,7,12,1,1,0,0,10/10
+tau,wheel_W10,10,18,1.66667,1.66667,0,0,10/10
+tau,barbell_4_2,10,15,1,1,0,0,10/10
+tau,ladder_L6,12,16,1.2,1.2,0,0,10/10
+iprime,path_P8,8,7,1.33333,1.33333,0,0,10/10
+iprime,cycle_C10,10,10,1.25,1.25,0,0,10/10
+iprime,petersen,10,15,2,2,0,0,10/10
+iprime,grid_3x3,9,12,1,1,0,0,10/10
+iprime,complete_bipartite_K3_4,7,12,1,1,0,0,10/10
+iprime,wheel_W10,10,18,2,2,0,0,10/10
+iprime,barbell_4_2,10,15,3.5,3.5,0,0,10/10
+iprime,ladder_L6,12,16,1.2,1.2,0,0,10/10

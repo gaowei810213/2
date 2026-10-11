@@ -1,0 +1,17 @@
+target,graph,n,aut_order,gtidea_mean,ga_mean,rel_improvement
+tau,petersen,10,120,2,2,0.0000
+tau,cycle_C12,12,24,1.2,1.2,0.0000
+tau,complete_bipartite_K4_4,8,1152,1.33333,1.33333,0.0000
+tau,hypercube_Q4,16,384,1.15476,1.14286,-0.0104
+tau,circulant_12_1_3,12,24,1.2,1.2,0.0000
+tau,grid_3x4,12,4,1.2,1.2,0.0000
+tau,path_P12,12,2,1,1,0.0000
+tau,ER_n12_p0.3,12,1,1,1,0.0000
+iprime,petersen,10,120,2,2,0.0000
+iprime,cycle_C12,12,24,1.2,1.2,0.0000
+iprime,complete_bipartite_K4_4,8,1152,1.33333,1.33333,0.0000
+iprime,hypercube_Q4,16,384,1.14286,1.14286,0.0000
+iprime,circulant_12_1_3,12,24,1.2,1.2,0.0000
+iprime,grid_3x4,12,4,1.2,1.2,0.0000
+iprime,path_P12,12,2,1.2,1.2,0.0000
+iprime,ER_n12_p0.3,12,1,1.2,1.2,0.0000
